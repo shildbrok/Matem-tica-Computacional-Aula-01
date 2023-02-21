@@ -14,3 +14,7 @@ Vamos resolver:</br>
 (-8)° (Leitura: Menos Oito Elevado a 0) na VERTICAL eixo Y: = 1, Essa foi simples, pois todo número elevado a 0 é 1. Então iremos andar um ponto para cima</br></br>
 (-9):(-3) (Leitura: Menos Nove Dividido Por Menos Três) na HORIZONTAL eixo X: = +3, Fazendo uma simples regra de sinal saberemos que o resultado ira ser positivo, e dividindo Nove por Três, o resultado será 3. Então moveremos para da Direita.</br></br>
 (-2)² (Leitura: Menos Dois ao Quadrado) na VERTICAL eixo Y: = 4, Aqui a expressão nos engana um pouco, como disse anteriormente o elemento que está sendo elevado tem que ser multiplicado por ele mesmo, no caso aqui ficaria (-2).(-2) = 4. Então Subiremos quatro pontos para cima.</br></br>
+(-5) (Leitura: Menos Cinco) na HORIZONTAL eixo X: -5, A mais fácil de todas, só andamos 5 pontos para a esquerda. </br></br>
+
+######Imagem da Solução:
+![image](https://user-images.githubusercontent.com/68255416/220346199-755251bc-52ff-4c6c-85d1-fd4fa9ffe789.png)
