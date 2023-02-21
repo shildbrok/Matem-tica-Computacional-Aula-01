@@ -19,3 +19,6 @@ Vamos resolver:</br>
 ###### Imagem da Solução:</br>
 ![image](https://user-images.githubusercontent.com/68255416/220346199-755251bc-52ff-4c6c-85d1-fd4fa9ffe789.png)</br>
 
+###### Solução 02:
+![image](https://user-images.githubusercontent.com/68255416/220349028-f853be68-534b-435a-9624-f9d2cefe9670.png)</br>
+Para solucionar esta questão, temos que lembrar que o brasil foi descobeto 1500 D.C (Depois de Cristo), logo o ano 0 foi o ano que Cristo nasceu, e tudo que é anterior a isso, seria o equivalente a -753 a.C (Antes de Cristo). Temos que contar o decorrer dos anos até chegar no ano 0 e 1500 anos após. Que no caso seria 753+1500 = 2253.
