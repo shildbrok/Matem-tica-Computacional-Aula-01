@@ -38,3 +38,20 @@ No segundo deafio, vamos fazer a mesma lógica. Um número X + 33 = 0, invertend
 Vamos isolar os temos para uma melhor compreensão. (+425+130) - (12+29+287+12+30+11) | 555 - 381 = 184 Berenice depositou esse valor na conta. E ficou com -70.
 
 ###### Solução 06:
+![image](https://user-images.githubusercontent.com/68255416/220370877-c0fe3936-3735-4653-b799-d43cbd51a102.png)</br>
+Esse exercicio é bem simples, só faz o jogo de sinal, e Soma, subtrai, multiplica, ou divide, conforme o indicado. Não vou relaziar todas as operações, mas a ideia é essa.
+
+###### Solução 07: 
+![image](https://user-images.githubusercontent.com/68255416/220372409-6df9f37e-9243-46fb-b400-e01ad589881d.png)</br>
+Esse exercicio tem a mesma ideia do número 02, pois é somar os valores. Exemplo no primeiro movimento, ela anda 600 metros , apos isso 300, 100, 300, 400, 300, 200. Somando esses valores teremos o total de 2200.</br>
+Na letra B seguindo os valores, saberemos que irá para na praça.</br>
+
+###### Solução 08:
+![image](https://user-images.githubusercontent.com/68255416/220374454-b4358ba0-2a6a-4566-999e-9efd886213d9.png)</br>
+## A TEMIDA! Kkkkk
+Bom, devemos entender que temos que achar o número em comum que está relacionado entre elas, na estrea temos alguemas informações como, 7, -21, 63. Então normalmente nos resolvemos essas questoes na tentativa e erro. Tentei algumas vezes, após isso cheguei ao número x-3, 7 x -3 = -21, Seguindo essa mesma lógica -21 x -3 = 63 e assim por diante.</br>
+Fazendo o Hexagono, após algumas discussões no grupo menções honrosas a Beatriz, Julia, Gustavo. Chegamos a conclusão é sempre é diminuido um número multiplo de 2, ou seja 2,4,6,8,10 e assim por diante. Cada divisão do hexagono é o próximo multiplo.
+
+
+
+###### --Creator: Estevan Generoso
