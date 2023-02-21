@@ -36,7 +36,7 @@ Na primeira solução temos que seguir a sequencia da seta: 19 - 5 = 14, a segun
 No segundo deafio, vamos fazer a mesma lógica. Um número X + 33 = 0, invertendo a equação, X = 0 - 33 = -33, próximo balão, X - 7 = -33 | X = -33 + 7 = -26 , passando para a próxima equação, X + 12 = -26 | X = -26 -12 = -38. </br></br>
 
 ###### Solução 05:
-![image](https://user-images.githubusercontent.com/68255416/220365775-8752c853-91cb-4676-bfe1-227348a3274e.png)
+![image](https://user-images.githubusercontent.com/68255416/220365775-8752c853-91cb-4676-bfe1-227348a3274e.png)</br>
 Vamos isolar os temos para uma melhor compreensão. (+425+130) - (12+29+287+12+30+11) | 555 - 381 = 184 Berenice depositou esse valor na conta. E ficou com -70.
 
 ###### Solução 06:
