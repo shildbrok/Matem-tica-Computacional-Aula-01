@@ -16,6 +16,6 @@ Vamos resolver:</br>
 (-2)² (Leitura: Menos Dois ao Quadrado) na VERTICAL eixo Y: = 4, Aqui a expressão nos engana um pouco, como disse anteriormente o elemento que está sendo elevado tem que ser multiplicado por ele mesmo, no caso aqui ficaria (-2).(-2) = 4. Então Subiremos quatro pontos para cima.</br></br>
 (-5) (Leitura: Menos Cinco) na HORIZONTAL eixo X: -5, A mais fácil de todas, só andamos 5 pontos para a esquerda. </br></br>
 
-######Imagem da Solução:</br>
+#####Imagem da Solução:</br>
 ![image](https://user-images.githubusercontent.com/68255416/220346199-755251bc-52ff-4c6c-85d1-fd4fa9ffe789.png)</br>
 
