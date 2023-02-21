@@ -30,7 +30,9 @@ B: -20, -22, -24, Esses são os números pares.</br></br>
 
 ###### Solução 04:
 ![image](https://user-images.githubusercontent.com/68255416/220361991-5a671703-6e47-4fda-a45d-409ce60639e4.png)</br>
-Na primeira solução temos que seguir a seuqência da seta: Temos informação do número 19 e do -5, sabemos que um número X - 5 = 19, passando o 5 para o outro lado da igualdade X = 19 + 5 = 24, já na segunda nuvem, temos X + 8 = 24, então fazendo a mesma inversão teremos X = 24 - 8 = 16, então vamos para o próximo, sabe que o numero X - 2 = 16, realizando a mesma inversão, X = 16 + 2 = 18. Solucionamos todos os espaços vazios.</br>
+~~Na primeira solução temos que seguir a seuqência da seta: Temos informação do número 19 e do -5, sabemos que um número X - 5 = 19, passando o 5 para o outro lado da igualdade X = 19 + 5 = 24, já na segunda nuvem, temos X + 8 = 24, então fazendo a mesma inversão teremos X = 24 - 8 = 16, então vamos para o próximo, sabe que o numero X - 2 = 16, realizando a mesma inversão, X = 16 + 2 = 18. Solucionamos todos os espaços vazios.~~</br>
+Correção reelembrada pelo Faylon.</br>
+Na primeira solução temos que seguir a sequencia da seta: 19 - 5 = 14, a segunda solução ira ser 14 + 8 = 22, e assim por diante, 22 - 2 = 20.
 No segundo deafio, vamos fazer a mesma lógica. Um número X + 33 = 0, invertendo a equação, X = 0 - 33 = -33, próximo balão, X - 7 = -33 | X = -33 + 7 = -26 , passando para a próxima equação, X + 12 = -26 | X = -26 -12 = -38. </br></br>
 
 ###### Solução 05:
