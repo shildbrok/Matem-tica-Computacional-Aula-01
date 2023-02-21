@@ -21,5 +21,18 @@ Vamos resolver:</br>
 
 ###### Solução 02:
 ![image](https://user-images.githubusercontent.com/68255416/220349028-f853be68-534b-435a-9624-f9d2cefe9670.png)</br>
-Para solucionar esta questão, temos que lembrar que o brasil foi descobeto 1500 D.C (Depois de Cristo), logo o ano 0 foi o ano que Cristo nasceu, e tudo que é anterior a isso, seria o equivalente a -753 a.C (Antes de Cristo). Temos que contar o decorrer dos anos até chegar no ano 0 e 1500 anos após. Que no caso seria 753+1500 = 2253.</br>![image](https://user-images.githubusercontent.com/68255416/220351759-8e709f5d-cab7-472b-b906-118b07d6e9ac.png)</br>
+Para solucionar esta questão, temos que lembrar que o brasil foi descobeto 1500 D.C (Depois de Cristo), logo o ano 0 foi o ano que Cristo nasceu, e tudo que é anterior a isso, seria o equivalente a -753 a.C (Antes de Cristo). Temos que contar o decorrer dos anos até chegar no ano 0 e 1500 anos após. Que no caso seria 753+1500 = 2253.</br>![image](https://user-images.githubusercontent.com/68255416/220351759-8e709f5d-cab7-472b-b906-118b07d6e9ac.png)</br></br>
+
+###### Solução 03:
+![image](https://user-images.githubusercontent.com/68255416/220357887-6419b72b-afff-4db2-b662-b4a51a27fdb2.png)</br>
+A: Para respondermos essa temos que, saber com quais números estamos trabalhando, que no caso seria SUCESSOR de -31, e o ANTECESSOR de -40: o Sucessor de -31 é -30 e o antecessor de -40 é -41. Mas pq ? Para sabermos qual é o número Sucessor ou o Antecesor de outro número temos que adicionar adicionar +1 nele, no caso -31 + 1 = -30, e o antecessor temos que efetuar uma subtração de -1 ou seja -40 -1 = -41. A resposta é -30.</br></br>
+B: -20, -22, -24, Esses são os números pares.</br></br>
+
+###### Solução 04:
+![image](https://user-images.githubusercontent.com/68255416/220361991-5a671703-6e47-4fda-a45d-409ce60639e4.png)</br>
+Na primeira solução temos que seguir a seuqência da seta: Temos informação do número 19 e do -5, sabemos que um número X - 5 = 19, passando o 5 para o outro lado da igualdade X = 19 + 5 = 24, já na segunda nuvem, temos X + 8 = 24, então fazendo a mesma inversão teremos X = 24 - 8 = 16, então vamos para o próximo, sabe que o numero X - 2 = 16, realizando a mesma inversão, X = 16 + 2 = 18. Solucionamos todos os espaços vazios.</br>
+No segundo deafio, vamos fazer a mesma lógica. Um número X + 33 = 0, invertendo a equação, X = 0 - 33 = -33, próximo balão, X - 7 = -33 | X = -33 + 7 = -26 , passando para a próxima equação, X + 12 = -26 | X = -26 -12 = -38. </br></br>
+
+###### Solução 05:
+![image](https://user-images.githubusercontent.com/68255416/220365775-8752c853-91cb-4676-bfe1-227348a3274e.png)
 
